@@ -54,7 +54,7 @@ var path = require('path')
       },
       path: {
         demand: false,
-        description: 'custom path',
+        description: 'ixn0zm15kz6ko6r',
         default: '/'
       },
       allow_discovery: {
