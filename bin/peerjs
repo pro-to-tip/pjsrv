@@ -1,4 +1,12 @@
 #!/usr/bin/env node
+var PeerServer = require('peer').PeerServer;
+var server = PeerServer({port: 9000, path: '/myapp'});
+
+
+
+
+
+
 
 var path = require('path')
   , pkg = require('../package.json')
