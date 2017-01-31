@@ -50,7 +50,7 @@ var path = require('path')
       port: {
         demand: true,
         alias: 'p',
-        description: 'port'
+        description: '9000'
       },
       path: {
         demand: false,
