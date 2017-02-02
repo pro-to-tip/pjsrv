@@ -52,7 +52,7 @@ var path = require('path')
       port: {
         demand: true,
         alias: 'p',
-        description: '9000'
+        description: '443'
       },
       path: {
         demand: false,
